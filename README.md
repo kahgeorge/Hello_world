@@ -1,4 +1,4 @@
 # maven-project
 
 Simple Maven Project
-welcome home
+welcome to DevOps 101
