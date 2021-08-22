@@ -4,4 +4,5 @@
 <!-- <h2> Glad to see you here </h2> -->
 
 <h1> Nothing to be scared of, just a little code </h2>
-<!-- <h2> just another commit </h2> -->
+
+<h2> just another commit </h2>
