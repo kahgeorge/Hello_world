@@ -5,6 +5,6 @@
 
 <h1> Nothing to be scared of, just a little code </h2>
 
-<!-- <h2> just another commit </h2> -->
+<h2> just another commit </h2> 
 
 <h2> Welcome to the world of six figure </h2>
