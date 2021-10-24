@@ -3,7 +3,7 @@
 
 <!-- <h2> Glad to see you here </h2> -->
 
-<h1> Nothing to be scared of, when deploying using ansible </h2>
+<h1> Nothing to be scared of, deploying using ansible </h2>
 
 <h1> life is beautiful </h1> 
 
