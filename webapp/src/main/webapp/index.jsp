@@ -1,10 +1,24 @@
-<h1> Hello, Welcome to Linux SpringBoard DevOps Project !!   </h1>
-<!-- <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2> -->
-
-<!-- <h2> Glad to see you here </h2> -->
-
-<h1> Nothing to be scared of, deploying using ansible </h2>
-
-<h1> life is beautiful </h1> 
-
-<h2> Welcome to the world of six figure </h2>
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Bookshop Website</title>
+</head>
+<body>
+    <div style="text-align: center">
+        <h1>Admin Login</h1>
+        <form action="login" method="post">
+            <label for="email">Email:</label>
+            <input name="email" size="30" />
+            <br><br>
+            <label for="password">Password:</label>
+            <input type="password" name="password" size="30" />
+            <br>${message}
+            <br><br>           
+            <button type="submit">Login</button>
+        </form>
+    </div>
+</body>
+</html>
